@@ -29,10 +29,12 @@ Key Features:
 - Cross-validation implementation for robust model evaluation
 - Comparative analysis of classification algorithms
 
-| Model | Accuracy | | Precision | | Recall | | F1-Score | | AUC |
---- | --- | | --- | | --- | | --- | | --- 
-| Logistic Regression | 82.83% | | 94.66% | | 86.06% | | 90.15% | | 0.727 |
-| Decision Tree | 90%+ | | Lower | | Higher FP | | - | | 0.727 |
+## Model Performance Comparison
+
+| Model | Accuracy | Precision | Recall | F1-Score | AUC |
+|-------|----------|-----------|--------|----------|-----|
+| Logistic Regression | 82.83% | 94.66% | 86.06% | 90.15% | 0.727 |
+| Decision Tree | 90%+ | Lower | Higher FP | - | 0.727 |
 
 ## Business Impact & Applications
 
